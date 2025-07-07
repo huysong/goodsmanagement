@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Data\\Migrations\\20250707014452_AddProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoodsManagement\\Data\\Migrations\\20250707014452_AddProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|d:\\users\\admin\\source\\repos\\goodsmanagement\\goodsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0F98A03-2EED-4EB4-9F52-A28B039994F7}|GoodsManagement\\GoodsManagement.csproj|solutionrelative:goodsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "GoodsManagement\\Program.cs",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Program.cs",
+              "RelativeToolTip": "GoodsManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:16:51.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GoodsManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T01:49:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GoodsManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GoodsManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:15:35.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GoodsManagement\\Models\\Product.cs",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Models\\Product.cs",
+              "RelativeToolTip": "GoodsManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:15:11.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GoodsManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GoodsManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:50:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagement\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "GoodsManagement\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T01:49:26.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250707014452_AddProductTable.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Data\\Migrations\\20250707014452_AddProductTable.cs",
+              "RelativeDocumentMoniker": "GoodsManagement\\Data\\Migrations\\20250707014452_AddProductTable.cs",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\Data\\Migrations\\20250707014452_AddProductTable.cs",
+              "RelativeToolTip": "GoodsManagement\\Data\\Migrations\\20250707014452_AddProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:44:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "GoodsManagement\\appsettings.json",
+              "ToolTip": "D:\\Users\\Admin\\source\\repos\\GoodsManagement\\GoodsManagement\\appsettings.json",
+              "RelativeToolTip": "GoodsManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T01:15:56.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
