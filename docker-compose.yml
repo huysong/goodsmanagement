@@ -8,9 +8,11 @@ services:
     ports:
       - "40140:80"
     environment:
+      - ASPNETCORE_ENVIRONMENT=Development
       - ConnectionStrings__DefaultConnection=Server=db;Database=GoodsManagementDb;User=sa;Password=123123;Encrypt=False;
     depends_on:
       - db
+    restart: unless-stopped
 
   db:
     image: mcr.microsoft.com/mssql/server:2022-latest
@@ -19,3 +21,9 @@ services:
       ACCEPT_EULA: "Y"
     ports:
       - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    restart: unless-stopped
+
+volumes:
+  sql_data:
