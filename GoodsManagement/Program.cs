@@ -15,7 +15,10 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
-builder.WebHost.UseUrls("http://0.0.0.80");
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(80); // hoặc cổng bạn muốn dùng trong container
+});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
