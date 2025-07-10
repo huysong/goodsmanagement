@@ -4,7 +4,7 @@ services:
   webapp:
     build:
       context: .
-      dockerfile: GoodsManagement/Dockerfile
+      dockerfile: Dockerfile
     ports:
       - "40140:80"
     environment:
