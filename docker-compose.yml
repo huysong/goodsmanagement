@@ -22,7 +22,7 @@ services:
       - "40140:80"
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__DefaultConnection=Server=db;Database=GoodsManagementDb;User=sa;Password=123123;Encrypt=False;TrustServerCertificate=True;
+      - ConnectionStrings__DefaultConnection=Server=db;Database=GoodsManagementDb;User=sa;Password=Asdf@1234;Encrypt=False;TrustServerCertificate=True;
     depends_on:
       - db
     restart: unless-stopped
